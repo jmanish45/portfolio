@@ -36,7 +36,7 @@ const Navbar = () => {
         
         {/* Left Side: Logo/Name */}
         <div className="flex items-center">
-          <a href="#" className="text-white text-2xl font-black tracking-tight whitespace-nowrap">
+          <a href="#home" className="text-white text-2xl font-black tracking-tight whitespace-nowrap">
             {personalInfo.brandName}<span className="text-red-500">.</span>
           </a>
         </div>

@@ -70,7 +70,7 @@ const ContentCreator = () => {
           ))}
         </div>
 
-        {/* Instagram CTA */}
+        {/* LeetCode CTA */}
         <div data-aos="fade-up" data-aos-delay="400" className="mt-16 flex justify-center">
           <a
             href={socialLinks.leetcode}

@@ -97,7 +97,7 @@ const Contact = () => {
             <div className="text-xs font-bold tracking-[0.2em] uppercase opacity-90">
               Reach Me
             </div>
-            {/* Instagram Quick Link */}
+            {/* LeetCode Quick Link */}
             <a 
               href={socialLinks.leetcode} 
               target="_blank" 

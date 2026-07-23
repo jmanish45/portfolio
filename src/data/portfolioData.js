@@ -295,13 +295,13 @@ export const education = {
     {
       qualification: "HSC (CBSE Board)",
       institution: "Mane's International School, Ratnagiri",
-      year: "2022",
+      yearLabel: "12th Score",
       result: "87%",
     },
     {
       qualification: "SSC (State Board)",
       institution: "Saint Thomas School, Ratnagiri",
-      year: "2020",
+      yearLabel: "10th Score",
       result: "93.40%",
     },
   ],

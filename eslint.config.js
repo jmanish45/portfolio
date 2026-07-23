@@ -17,5 +17,9 @@ export default defineConfig([
       globals: globals.browser,
       parserOptions: { ecmaFeatures: { jsx: true } },
     },
+    rules: {
+      // The template keeps React imports for compatibility with its JSX components.
+      'no-unused-vars': ['error', { varsIgnorePattern: '^React$' }],
+    },
   },
 ])
